@@ -1,0 +1,33 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+htop is already the newest version (2.0.1-1ubuntu1).
+The following packages were automatically installed and are no longer required:
+  heroku zsh-common
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 294 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  heroku zsh-common
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  vim-common vim-runtime vim-tiny
+Suggested packages:
+  ctags vim-doc vim-scripts vim-gnome-py2 | vim-gtk-py2 | vim-gtk3-py2
+  | vim-athena-py2 | vim-nox-py2 indent
+The following packages will be upgraded:
+  vim vim-common vim-runtime vim-tiny
+4 upgraded, 0 newly installed, 0 to remove and 290 not upgraded.
+Need to get 6,759 kB of archives.
+After this operation, 80.9 kB of additional disk space will be used.
+Do you want to continue? [Y/n] Abort.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+htop is already the newest version (2.0.1-1ubuntu1).
+The following packages were automatically installed and are no longer required:
+  heroku zsh-common
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 294 not upgraded.
