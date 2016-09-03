@@ -35,5 +35,5 @@ sudo pip install ipython
 #  npm install -G $line            #   and process it.
 #done
 
-exec 0<&3                      # restore previous stdin.
-IFS=$BAKIFS                    #   and IFS.
+#exec 0<&3                      # restore previous stdin.
+#IFS=$BAKIFS                    #   and IFS.
