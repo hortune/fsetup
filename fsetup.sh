@@ -27,6 +27,9 @@ sudo pip install --upgrade pwntools
 
 echo "install ipython"
 sudo pip install ipython
+
+echo "install virtualenv"
+sudo pip install virtualenv
 #File="npm_install"
 #exec 3<&0                      # save current stdin
 #exec 0<"$FILE"                 #   and change it to read from file.
