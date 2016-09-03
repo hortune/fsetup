@@ -1,15 +1,19 @@
 fsetup -- a fast setup for ubuntu
 ==============================
 
-## Requirement
+### Requirement
 ubuntu
 
-## Usage
+### Usage
 ```sh
 cd ~
 git clone https://github.com/hortune/fsetup
 cd fsetup
 sudo ./fsetup.sh
+```
+### dotfiles
+```
+https://github.com/mathiasbynens/dotfiles
 ```
 
 ### installation program
