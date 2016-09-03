@@ -14,6 +14,7 @@ sudo ./fsetup.sh
 
 ### installation program
 | name | version | 
+| ------- | ------- |
 | htop | apt-get | 
 | vim | apt-get |
 | node | v6.5.0 |
