@@ -22,11 +22,11 @@ sudo apt-get -y install npm
 
 echo "install python2.7 pip"
 sudo apt-get update
-sudo apt-get -y install python2.7 python-pip python-dev git libssl-dev
-pip install --upgrade pwntools
+sudo apt-get -y install python2.7 python-pip python-dev git libssl-dev build-essential libffi-dev
+sudo pip install --upgrade pwntools
 
 echo "install ipython"
-pip install ipython
+sudo pip install ipython
 #File="npm_install"
 #exec 3<&0                      # save current stdin
 #exec 0<"$FILE"                 #   and change it to read from file.
