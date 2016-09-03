@@ -21,8 +21,8 @@ sudo apt-get -y update
 sudo apt-get -y install npm
 
 echo "install python2.7 pip"
-apt-get update
-apt-get install python2.7 python-pip python-dev git libssl-dev
+sudo apt-get update
+sudo apt-get -y install python2.7 python-pip python-dev git libssl-dev
 pip install --upgrade pwntools
 
 echo "install ipython"
